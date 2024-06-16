@@ -52,7 +52,7 @@ collections:
     link: page_if_exists
     output: true 
     hue: 0 # red
-  team: #jl
+  people: 
     name: people 
     item: person
     link: hash_always
