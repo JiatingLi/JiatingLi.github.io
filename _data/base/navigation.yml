@@ -16,14 +16,15 @@
 - text: News # extended event descriptions in _posts .md files
   href: /newsfeed/  
 
-- text: More
-  menu: # Dropdown menu (one level deep only) 
+# JL Commented
+# - text: More
+#   menu: # Dropdown menu (one level deep only) 
 
-  - text: Resources # simpler data set set in funding.yml
-    href: /resources/  
+#   - text: Resources # simpler data set set in funding.yml
+#     href: /resources/  
 
-  - text: Funding # simpler data set set in funding.yml
-    href: /funding/  
+#   - text: Funding # simpler data set set in funding.yml
+#     href: /funding/  
 
-  - text: Contact # simple page unto itself, no connections to other data types
-    href: /contact/
+#   - text: Contact # simple page unto itself, no connections to other data types
+#     href: /contact/
