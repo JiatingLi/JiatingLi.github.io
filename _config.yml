@@ -52,8 +52,8 @@ collections:
     link: page_if_exists
     output: true 
     hue: 0 # red
-  people: 
-    name: team #jl
+  team: #jl
+    name: people 
     item: person
     link: hash_always
     output: true   
