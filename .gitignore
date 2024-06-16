@@ -1,0 +1,17 @@
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+
+# npm
+node_modules
+
+# Mac OS X
+.DS_Store
+
+# large input images
+assets/images/_source
+
+# local R library for CMS
+_cms/lib
