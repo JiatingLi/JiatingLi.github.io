@@ -53,7 +53,7 @@ collections:
     output: true 
     hue: 0 # red
   people: 
-    name: people
+    name: team #jl
     item: person
     link: hash_always
     output: true   
