@@ -16,6 +16,9 @@
 - text: News # extended event descriptions in _posts .md files
   href: /newsfeed/  
 
+- text: Contact # simple page unto itself, no connections to other data types
+  href: /contact/
+
 # JL Commented
 # - text: More
 #   menu: # Dropdown menu (one level deep only) 
