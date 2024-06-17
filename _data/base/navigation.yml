@@ -4,8 +4,11 @@
 - text: Home # users can also reach the homepage by clicking the site's title in the navbar
   href: /
 
-- text: Projects # extended project descriptions in _projects .md files
+- text: Research # extended project descriptions in _projects .md files
   href: /projects/  
+
+- text: Teaching # simple page unto itself, no connections to other data types
+  href: /contact/
 
 - text: Team # simpler data set set in people.yml  #jl
   href: /people/ 
@@ -16,8 +19,6 @@
 - text: News # extended event descriptions in _posts .md files
   href: /newsfeed/  
 
-- text: Contact # simple page unto itself, no connections to other data types
-  href: /contact/
 
 # JL Commented
 # - text: More
