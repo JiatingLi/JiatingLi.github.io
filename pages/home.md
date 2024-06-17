@@ -13,6 +13,8 @@ permalink: /
 <br>
 We employ a wide range of tools, spanning from ground-based robotics and Internet-of-Things to aerial sensing platforms like UAVs and satellites, to monitor crop growth and development. By harnessing the power of data-driven Artificial Intelligence (machine and deep learning models) and physics-driven process-based models (e.g., radiative transfer model, crop growth model), we deliver accurate and robust predictions on crop performance.
 
+<br>
+
 #### Join in us!
 I am looking for one Master and one PhD student to join our lab as early as January 2025. Students with strong self-motivation and passion for agricultural engineering are encouraged to apply. 
 
