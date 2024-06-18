@@ -18,8 +18,8 @@ To improve crop nutrient estimation, we proposed a novel hybrid method that inte
 
 This is an example of a PubMed citation {% include citation.html search="wilson te michigan" %}.
 
-<!-- {% include figure.html  
+{% include figure.html  
     image="assets/images/chemical-reaction-science-chemistry.jpg"
     title="This is the 'title' provided to figure.html."
     caption="This is the text in the 'caption' provided to figure.html."
-%} -->
+%}
