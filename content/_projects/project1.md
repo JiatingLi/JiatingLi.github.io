@@ -11,7 +11,7 @@ categories:
     - # Bioinformatics
 ---
 
-<h4>Overview</h4>
+<!-- <h4>Overview</h4>
 
 This is complete description of my first project.
 
@@ -23,4 +23,4 @@ This is an example of a PubMed citation {% include citation.html search="wilson 
     image="assets/images/chemical-reaction-science-chemistry.jpg"
     title="This is the 'title' provided to figure.html."
     caption="This is the text in the 'caption' provided to figure.html."
-%}
+%} -->
