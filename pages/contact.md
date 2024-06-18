@@ -1,6 +1,6 @@
 ---
 layout: base/default
-title: #Contact Information
+title: Teaching
 # banner_image: null
 permalink: /contact/
 assistant_email: #doe-asst@umich.edu
