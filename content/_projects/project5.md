@@ -14,3 +14,9 @@ categories:
 ---
 
 Data pipelines were created to extract multiple crop structural features, such as plant height and leaf area index, from three-dimensional (3D) LiDAR (Light Detection and Ranging) sensors. LiDAR emits laser pulses that can effectively penetrate crop canopies, providing comprehensive plant structural information. It is an excellent complement to UAV-based remote sensing.
+
+{% include figure.html  
+    image="assets/images/point_cloud_rotation.gif"
+    <!-- title="This is the 'title' provided to figure.html." -->
+    <!-- caption="This is the text in the 'caption' provided to figure.html." -->
+%}
