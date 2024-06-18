@@ -1,6 +1,6 @@
 ---
 layout: base/home
-title: Intelligence and Digital Engineering for Agriculture 
+title: Intelligence and Digital Engineering for Agriculture (IDEA)
 title2: #University of Michigan # same font size as title, but forced onto a second line
 subtitle: #Research laboratory and other projects # smaller font size, shown below title+title2
 # banner_image: /assets/images/doe-lab.jpg
@@ -15,9 +15,9 @@ We employ a wide range of tools, spanning from ground-based robotics and Interne
 
 <br>
 
-#### Join in us!
+#### Join us!
 I am looking for one Master and one PhD student to join our lab as early as January 2025. Students with strong self-motivation and passion for agricultural engineering are encouraged to apply. 
 
 
-![Glassware]({{ "assets/images/chemical-reaction-science-chemistry.jpg" | relative_url }})
+![Glassware]({{ "assets/images/cover_pic_example.png" | relative_url }})
 
