@@ -11,15 +11,14 @@ categories:
     - # Bioinformatics
 ---
 
-<!-- <h4>Overview</h4>
+<h4>Overview</h4>
 
-This is complete description of my first project.
+To improve crop nutrient estimation, we proposed a novel hybrid method that integrates the computational efficiency of AI models with the robustness of physics-based Radiative Transfer Models (i.e., physics-guided AI). This new approach not only achieved higher accuracy than the conventional methods but also demonstrated better robustness across diverse field locations, various crop growth stages, and different growing seasons. With its demonstrated success, this method holds significant promise for application to other common crop species or traits.
 
-Keep adding markdown here. See pages/home.md for hints.
 
 This is an example of a PubMed citation {% include citation.html search="wilson te michigan" %}.
 
-{% include figure.html  
+<!-- {% include figure.html  
     image="assets/images/chemical-reaction-science-chemistry.jpg"
     title="This is the 'title' provided to figure.html."
     caption="This is the text in the 'caption' provided to figure.html."
