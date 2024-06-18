@@ -17,6 +17,6 @@ Our proposed unsupervised pre-training strategy mitigated the requirement of int
 
 {% include figure.html  
     image="assets/images/research_topic_2.jpg"
-    <!-- title="This is the 'title' provided to figure.html." -->
-    <!-- caption="This is the text in the 'caption' provided to figure.html." -->
+    title=""  #This is the 'title' provided to figure.html.
+    caption="" #This is the text in the 'caption' provided to figure.html.
 %}

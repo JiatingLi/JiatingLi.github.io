@@ -15,6 +15,6 @@ We employed UAV-based multimodal images, including RGB, multispectral, and therm
 
 {% include figure.html  
     image="assets/images/research_topic_3.jpg"
-    <!-- title="This is the 'title' provided to figure.html." -->
-    <!-- caption="This is the text in the 'caption' provided to figure.html." -->
+    title=""  #This is the 'title' provided to figure.html.
+    caption="" #This is the text in the 'caption' provided to figure.html.
 %}

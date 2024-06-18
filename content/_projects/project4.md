@@ -17,6 +17,6 @@ Plant phenotypes are the observable traits of a plant, like height and leaf size
 
 {% include figure.html  
     image="assets/images/research_topic_4.jpg"
-    <!-- title="This is the 'title' provided to figure.html." -->
-    <!-- caption="This is the text in the 'caption' provided to figure.html." -->
+    title=""  #This is the 'title' provided to figure.html.
+    caption="" #This is the text in the 'caption' provided to figure.html.
 %}
