@@ -7,8 +7,10 @@ active: false
 card_image: "assets/images/research_topic_1.jpg"
 card_title: null # used if card_image is null; defaults to title
 categories: 
-    - # Project Leader
-    - # Bioinformatics
+    - Physics-guided AI
+    - Hyperspectral
+    - Corn
+    - Nitrogen
 ---
 
 <h4>Overview</h4>

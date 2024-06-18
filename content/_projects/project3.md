@@ -15,6 +15,7 @@ We employed UAV-based multimodal images, including RGB, multispectral, and therm
 
 {% include figure.html  
     image="assets/images/research_topic_3.jpg"
+    width=14
     title="" 
     caption="" 
 %}

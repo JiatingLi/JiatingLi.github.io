@@ -6,17 +6,17 @@ order: 2
 card_image: "assets/images/research_topic_2.jpg"
 card_title: null # used if card_image is null; defaults to title
 categories: 
-    # - Project Leader
-    # - Neural Development
-    # - Category 3
-    # - Category 4
-    # - Long Category 5
+    - UAV
+    - Deep learning
+    - Soybean
+    - Iron deficiency chlorosis
 ---
 
 Our proposed unsupervised pre-training strategy mitigated the requirement of intensive training data for deep learning models. Leveraging unlabeled UAV-collected RGB images, this approach significantly enhanced performance in rating the severity of soybean iron deficiency chlorosis, surpassing models without pre-training.
 
 {% include figure.html  
     image="assets/images/research_topic_2.jpg"
+    width=14
     title=""  
     caption="" 
 %}
