@@ -6,16 +6,17 @@ permalink: /contact/
 assistant_email: #doe-asst@umich.edu
 ---
 
-### Teaching experience (University of Nebraska-Lincoln)
-<br>
+### Teaching experience (@ University of Nebraska-Lincoln)
 
 **Teaching Assistant**
+<br>
 Instrumentation and Controls 
 <br>
 Engineering Properties of Biological Materials
 <br>
 
 **Guest Lecturer**
+<br>
 Introduction to Geospatial Technologies
 <br>
 GIS for Agriculture and Natural Resources
@@ -25,6 +26,7 @@ Aerial Image Processing
 <br>
 
 ### Teaching interest
+
 Proximal and remote sensing in agriculture
 <br>
 Multimodal data analysis for agri-food systems
