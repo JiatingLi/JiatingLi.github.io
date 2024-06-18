@@ -1,19 +1,28 @@
 ---
 layout: base/default
-title: Contact Information
+title: #Contact Information
 # banner_image: null
 permalink: /contact/
-assistant_email: doe-asst@umich.edu
+assistant_email: #doe-asst@umich.edu
 ---
 
-### Administrative Assistant
+### Teaching experience (University of Nebraska-Lincoln)
+**Teaching Assistant**
+Instrumentation and Controls 
+Engineering Properties of Biological Materials
 
-**Admin Asst Name**  
-<a href="mailto:{{ page.assistant_email }}">{{ page.assistant_email }}</a>
+**Guest Lecturer**
+Introduction to Geospatial Technologies
+GIS for Agriculture and Natural Resources
+Aerial Image Processing
 
-### Principal Investigator
+### Teaching interest
+Proximal and remote sensing in agriculture
+Multimodal data analysis for agri-food systems
+High-throughput plant phenotyping
 
-**John Doe, Ph.D.**  
-etc.
 
-Pronouns: he/his/him
+<!-- **Admin Asst Name**   -->
+<!-- <a href="mailto:{{ page.assistant_email }}">{{ page.assistant_email }}</a> -->
+
+
