@@ -1,15 +1,14 @@
 ---
-title: Research Project 3
-subtitle: This is my third project
-description: This is slightly longer description of my third project which is deliberately being made very long, too long to fit properly on the card
+title: Multimodal data fusion for drought tolerance assessment 
+subtitle: Conducted at the University of Nebraska-Lincoln
+description: We employed UAV-based multimodal images, including RGB, multispectral, and thermal data, to evaluate the drought tolerance of bioenergy sorghum. By leveraging the concept of drought tolerance index, we directly ranked hundreds of sorghum genotypes based on UAV-estimated biomass. Our work highlights the significant potential of UAV remote sensing technology for in-field selection of drought tolerant genotypes.
 order: 1
 # card_image: "/assets/images/vintage-newspaper-print-downsize.jpg"
 card_title: Project 3 # used if card_image is null; defaults to title
 categories: 
-    - Bioinformatics
-    - DNA Repair
+    - UAV
+    - Multimodal image
+    - Sorghum
 ---
 
-This is complete description of my third project.
-
-Keep adding markdown here. See pages/home.md for hints.
+We employed UAV-based multimodal images, including RGB, multispectral, and thermal data, to evaluate the drought tolerance of bioenergy sorghum. By leveraging the concept of drought tolerance index, we directly ranked hundreds of sorghum genotypes based on UAV-estimated biomass. Our work highlights the significant potential of UAV remote sensing technology for in-field selection of drought tolerant genotypes.
