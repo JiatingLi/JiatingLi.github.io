@@ -17,6 +17,6 @@ Data pipelines were created to extract multiple crop structural features, such a
 
 {% include figure.html  
     image="assets/images/point_cloud_rotation.gif"
-    title=""  #This is the 'title' provided to figure.html.
-    caption="" #This is the text in the 'caption' provided to figure.html.
+    title=""  
+    caption="" 
 %}

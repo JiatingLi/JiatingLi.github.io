@@ -20,6 +20,6 @@ This is an example of a PubMed citation {% include citation.html search="wilson 
 
 {% include figure.html  
     image="assets/images/research_topic_1.jpg"
-    title=""  #This is the 'title' provided to figure.html.
-    caption="" #This is the text in the 'caption' provided to figure.html.
+    title=""  
+    caption="" 
 %}
