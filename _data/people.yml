@@ -33,7 +33,7 @@
 # Principal Investigator; many fields not relevant, they always apply to the PI for their own page
 #-------------------------------------------------------------------------------------
 - id: Jiating_Li # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Jiating_Li # as display on the web page People item
+  name: Jiating Li # as display on the web page People item
   role: Principal Investigator # will appear next to name
   image: assets/images/people/Jiating Li - Picture.jpg # can be external link
   orcid: #0000-0000-0000-0000
@@ -49,32 +49,32 @@
 #-------------------------------------------------------------------------------------
 # current group members
 #-------------------------------------------------------------------------------------
-# - id: Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
-#   name: Research Tech # as display on the web page People item
-#   role: Research Technician # will appear next to name
-#   program: null # omit if not applicable
-#   image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
-#   orcid: null
-#   email: rtech11@umich.edu
-#   github: null
-#   twitter: null
-#   description: Master of all trades, fills many roles as needed
-#   status: current
-#   badges:
-#     - project=project1
+- id: #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: #Research Tech # as display on the web page People item
+  role: #Research Technician # will appear next to name
+  program: #null # omit if not applicable
+  image: #assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
+  orcid: #null
+  email: #rtech11@umich.edu
+  github: #null
+  twitter: #null
+  description: #Master of all trades, fills many roles as needed
+  status: #current
+  badges:
+    #- project=project1
 
 #-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------
-# - id: Postdoc_Fellow # used internally to identify this person, e.g., in a Newsfeed post "people" field
-#   name: Postdoc Fellow # as display on the web page People item
-#   role: Postdoctoral Fellow # will appear next to name
-#   program: PSTP # omit if not applicable
-#   image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
-#   orcid: null
-#   email: pfellow22@umich.edu
-#   github: null
-#   twitter: null
-#   description: Solved really important problems in project 2.
-#   status: past
-#   current_position: PhD student, Genetics and Genomics Program, University of Michigan # optional, to indicate where people are now
+- id: Postdoc_Fellow # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Postdoc Fellow # as display on the web page People item
+  role: Postdoctoral Fellow # will appear next to name
+  program: PSTP # omit if not applicable
+  image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
+  orcid: null
+  email: pfellow22@umich.edu
+  github: null
+  twitter: null
+  description: Solved really important problems in project 2.
+  status: past
+  current_position: PhD student, Genetics and Genomics Program, University of Michigan # optional, to indicate where people are now
