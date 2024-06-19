@@ -6,16 +6,16 @@ permalink: /contact/
 assistant_email: #doe-asst@umich.edu
 ---
 
-### Teaching experience (@ University of Nebraska-Lincoln)
+### Teaching experience 
 
-**Teaching Assistant**
+**Teaching Assistant (@ University of Nebraska-Lincoln)**
 <br>
 Instrumentation and Controls 
 <br>
 Engineering Properties of Biological Materials
 <br>
 
-**Guest Lecturer**
+**Guest Lecturer (@ University of Nebraska-Lincoln)**
 <br>
 Introduction to Geospatial Technologies
 <br>
