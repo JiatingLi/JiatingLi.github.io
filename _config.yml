@@ -159,9 +159,9 @@ exclude:
   - petridish.gemspec
 
 
-# Add this to include FontAwesome (JL)
-head: |
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+# # Add this to include FontAwesome (JL)
+# head: |
+#   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
 #-------------------------------------------------------------------------------------
 # legacy color settings from petridish, not used by umich-labs
