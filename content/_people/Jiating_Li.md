@@ -12,3 +12,9 @@ I am an incoming (Fall 2024) assistant professor at the department of Biosystems
 My research expertise spans multiple disciplines, including agricultural engineering, data science, and plant science. Throughout my academic journey, I have gained rich research experience in unmanned aerial vehicles (UAV), ground and proximal plant phenotyping tools, multi-modal data (RGB, multispectral, hyperspectral, thermal, and LiDAR) processing, data-driven machine learning and deep learning models, as well as physics-driven radiative transfer models.
 <br>
 Moving forward, my research endeavors will center on digital technologies for agri-food systems, with a keen focus on proximal and remote sensing, robotics and automation systems, internet-of-things (IoTs), and physics-guided AI.
+
+
+{% assign link = site.data.links.link %}
+<a href="{{ link.url }}" target="_blank">
+  {{ link.icon | markdownify }} {{ link.text }}
+</a>

@@ -43,7 +43,10 @@
   status: current
   description: |
     I am an incoming (Fall 2024) assistant professor at the department of Biosystems Engineering, University of Manitoba, Canada. 
-    
+  link:
+    url: "/people/Jiating_Li.md"
+    text: "Click here to learn more about me"
+    icon: "<i class='fas fa-info-circle'></i>"
 #-------------------------------------------------------------------------------------
 # current group members
 #-------------------------------------------------------------------------------------
