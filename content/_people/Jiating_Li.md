@@ -17,7 +17,7 @@ Moving forward, my research endeavors will center on digital technologies for ag
 
 
 
-{% assign link = site.data.links.link %}
+{% assign link = site.data.links_Jiating_Li.link %}
 <a href="{{ link.url }}" target="_blank">
   {{ link.icon | markdownify }} {{ link.text }}
 </a>
