@@ -44,6 +44,10 @@
   description: |
     I am an incoming (Fall 2024) assistant professor at the department of Biosystems Engineering, University of Manitoba, Canada. In August of 2023, I earned my Ph.D. degree in Biological Engineering at the department of Biological Systems Engineering, University of Nebraska-Lincoln, USA. After graduation, I had one-year of Postdoctoral research experience at the University of Illinois at Urbana-Champaign under the RIPE project.
   
+  {% assign link = site.data.links_Jiating_Li.link %}
+  <a href="{{ link.url }}" target="_blank">
+    {{ link.icon | markdownify | remove: "<p>" | remove: "</p>" }} {{ link.text }}
+  </a>
 #-------------------------------------------------------------------------------------
 # current group members
 #-------------------------------------------------------------------------------------
