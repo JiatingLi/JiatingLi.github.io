@@ -42,10 +42,10 @@
   twitter: null
   status: current
   description: |
-  link:
-    url: "/content/people/Jiating_Li.md"
-    text: "Click here to learn more about me"
-    icon: "<i class='fas fa-info-circle'></i>"
+    link:
+      url: "/content/people/Jiating_Li.md"
+      text: "Click here to learn more about me"
+      icon: "<i class='fas fa-info-circle'></i>"
 
   
 #-------------------------------------------------------------------------------------
