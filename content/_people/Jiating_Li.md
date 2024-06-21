@@ -2,7 +2,6 @@
 title: About me
 subtitle: 
 # card_image: "assets/images/chemical-reaction-science-chemistry.jpg"
-card_title: click # used if card_image is null; defaults to title
 ---
 
 
