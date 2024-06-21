@@ -14,12 +14,4 @@ My research expertise spans multiple disciplines, including agricultural enginee
 
 Moving forward, my research endeavors will center on digital technologies for agri-food systems, with a keen focus on proximal and remote sensing, robotics and automation systems, internet-of-things (IoTs), and physics-guided AI.
 
-<!-- {% assign card = site.data.people.Jiating_Li %}
-<div class="name-card">
-  <p><strong>{{ card.name }}</strong></p>
-  <p>{{ card.role }}</p>
-  <p>{{ card.image }}</p>
-  <a href="{{ card.link.url }}" target="_blank">
-    {{ card.link.icon | markdownify | remove: "<p>" | remove: "</p>" }} {{ card.link.text }}
-  </a>
-</div> -->
+
