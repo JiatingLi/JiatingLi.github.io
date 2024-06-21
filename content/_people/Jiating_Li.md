@@ -24,8 +24,3 @@ Moving forward, my research endeavors will center on digital technologies for ag
     {{ card.link.icon | markdownify | remove: "<p>" | remove: "</p>" }} {{ card.link.text }}
   </a>
 </div> -->
-
-<!-- {% assign link = site.data.links_Jiating_Li.link %}
-  <a href="{{ link.url }}" target="_blank">
-    {{ link.icon | markdownify | remove: "<p>" | remove: "</p>" }} {{ link.text }}
-  </a> -->
