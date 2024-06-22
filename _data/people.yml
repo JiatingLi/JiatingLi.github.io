@@ -34,7 +34,7 @@
 #-------------------------------------------------------------------------------------
 - id: Jiating_Li # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Jiating Li # as display on the web page People item
-  role: Principal Investigator # will appear next to name
+  role: Incoming assistant professor at the University of Manitoba # Principal Investigator #will appear next to name
   image: assets/images/people/Jiating Li - Picture.jpg # can be external link
   orcid: #0000-0000-0000-0000
   email: jtlicina@hotmail.com
