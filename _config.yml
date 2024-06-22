@@ -25,7 +25,7 @@ max_words_card_short: 25  # truncate project, people and news descriptions after
 max_words_card_long: 50   # truncate other descriptions after this many words in cards
 #logo: /assets/images/1280px-Michigan_Wolverines_logo-90px_height.png  # Logo in navbar, will be displayed at 30px height
 colors:
-  links:  "#2F65A7"    # Color for links: use a readable color that contrasts well with dark text
+  links:  "#00767E"  #"#2F65A7"    # Color for links: use a readable color that contrasts well with dark text
 
 
 # !!! only developers should edit below this line !!!
