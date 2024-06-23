@@ -9,6 +9,7 @@ categories:
     - HTPP
     - LiDAR
 ---
+<h4>Overview</h4>
 
 Data pipelines were created to extract multiple crop structural features, such as plant height and leaf area index, from three-dimensional (3D) LiDAR (Light Detection and Ranging) sensors. LiDAR emits laser pulses that can effectively penetrate crop canopies, providing comprehensive plant structural information. It is an excellent complement to UAV-based remote sensing.
 
