@@ -3,21 +3,21 @@ layout: base/home
 title: Intelligence and Digital Engineering for Agriculture (IDEA)
 title2: #University of Michigan # same font size as title, but forced onto a second line
 subtitle: #Research laboratory and other projects # smaller font size, shown below title+title2
-banner_image: /assets/images/cover_pic_examples.png
+banner_image: /assets/images/cover_pic_example2.png
 permalink: /
 ---
 
 
-##### Our mission is to elevate agricultural productivity and sustainability through innovative engineering solutions. Using cutting-edge digital technologies and advanced analytical methodologies, we address intricate agricultural challenges in the face of climate change.
+#### Our mission is to elevate agricultural productivity and sustainability through innovative engineering solutions. Using cutting-edge digital technologies and advanced analytical methodologies, we tackle agricultural challenges under the changing climate.
 
 <br>
-We employ a wide range of tools, spanning from ground-based robotics and Internet-of-Things to aerial sensing platforms like UAVs and satellites, to monitor crop growth and development. By harnessing the power of data-driven Artificial Intelligence (machine and deep learning models) and physics-driven process-based models (e.g., radiative transfer model, crop growth model), we deliver accurate and robust predictions on crop performance.
+We employ a wide range of tools to monitor crop growth and development, including remote sensing technologies (UAVs and satellites), optical sensors, ground-based robotics, and Internet-of-Things (IoT) devices. By harnessing the power of data-driven Artificial Intelligence (machine and deep learning models) and physics-driven process-based models (radiative transfer model, crop growth model), we deliver accurate and robust predictions on crop performance.
 
 <br>
 
 #### Join us!
-I am looking for one Master and one PhD student to join our lab as early as January 2025. Students with strong self-motivation and passion for agricultural engineering are encouraged to apply. 
+I am looking for one Master and one PhD student to join our lab at the [Department of Biosystems Engineering, University of Manitoba](https://umanitoba.ca/engineering/biosystems). The anticipated start date is January or May 2025. Students with strong self-motivation and passion for agricultural engineering are encouraged to apply. 
 
 
-![Glassware]({{ "assets/images/cover_pic_example.png" | relative_url }})
+<!-- ![Glassware]({{ "assets/images/cover_pic_example.png" | relative_url }}) -->
 
