@@ -63,5 +63,5 @@
   year:     2020
   url: null 
   badges: 
-    - funding=My_R01
-    - project=project1
+    # - funding=My_R01
+    # - project=project1

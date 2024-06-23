@@ -18,7 +18,7 @@ categories:
 To improve crop nutrient estimation, we proposed a novel hybrid method that integrates the computational efficiency of AI models with the robustness of physics-based Radiative Transfer Models (i.e., physics-guided AI). This new approach not only achieved higher accuracy than the conventional methods but also demonstrated better robustness across diverse field locations, various crop growth stages, and different growing seasons. With its demonstrated success, this method holds significant promise for application to other common crop species or traits.
 
 
-This is an example of a PubMed citation {% include citation.html search="wilson te michigan" %}.
+<!-- This is an example of a PubMed citation {% include citation.html search="wilson te michigan" %}. -->
 
 {% include figure.html  
     image="assets/images/research_topic_1.jpg"
