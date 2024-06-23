@@ -2,7 +2,7 @@
 layout: base/default
 title: Teaching
 # banner_image: null
-permalink: /contact/
+permalink: /teach/
 assistant_email: #doe-asst@umich.edu
 ---
 
