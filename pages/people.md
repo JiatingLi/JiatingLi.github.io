@@ -1,7 +1,7 @@
 ---
 layout: people
-title: People
-subtitle: #Lab members, collaborators and associates
+title: Who We Are
+subtitle: #Who we are
 banner_image: null
 permalink: /people/
 ---
