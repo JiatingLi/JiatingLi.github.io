@@ -8,7 +8,7 @@
   href: /projects/  
 
 - text: Teaching # simple page unto itself, no connections to other data types
-  href: /contact/
+  href: /teach/
 
 - text: Team # simpler data set set in people.yml  #jl
   href: /people/ 
