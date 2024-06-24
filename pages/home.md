@@ -3,7 +3,7 @@ layout: base/home
 title: Intelligence and Digital Engineering for Agriculture (IDEA)
 title2: #University of Michigan # same font size as title, but forced onto a second line
 subtitle: #Research laboratory and other projects # smaller font size, shown below title+title2
-banner_image: /assets/images/cover_pic_example2.png
+banner_image: /assets/images/cover_pic_example2_1.png
 permalink: /
 ---
 

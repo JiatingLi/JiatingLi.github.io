@@ -2,7 +2,7 @@
 layout: people
 title: Who We Are
 subtitle: #Who we are
-banner_image: null
+banner_image: /assets/images/cover_pic_example2_1.png
 permalink: /people/
 ---
 

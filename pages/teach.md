@@ -1,7 +1,7 @@
 ---
 layout: base/default
 title: Teaching
-# banner_image: null
+banner_image: /assets/images/cover_pic_example2_1.png
 permalink: /teach/
 assistant_email: #doe-asst@umich.edu
 ---
