@@ -45,7 +45,7 @@
   journal:  International Journal of Applied Earth Observation and Geoinformation
   citation: 129, p.103817
   year:     2024
-  url: null
+  url: https://doi.org/10.1016/j.jag.2024.103817
   abstract: 
   badges:
     # - person=Dominic_Bazzano
@@ -65,7 +65,7 @@
   journal:  Computers and Electronics in Agriculture
   citation: 206, 107669 
   year:     2023
-  url: null 
+  url: https://doi.org/10.1016/j.compag.2023.107669 
   badges: 
     # - funding=My_R01
     # - project=project1
@@ -86,7 +86,7 @@
   journal:  The Crop Journal
   citation: 10(5), 1363-1375 
   year:     2022
-  url: null 
+  url: https://doi.org/10.1016/j.cj.2022.04.005 
   badges: 
     # - funding=My_R01
     # - project=project1
@@ -105,7 +105,7 @@
   journal:  Computers and electronics in agriculture
   citation: 175, 105557 
   year:     2020
-  url: null 
+  url: https://doi.org/10.1016/j.compag.2020.105557 
   badges: 
     # - funding=My_R01
     # - project=project1
@@ -127,7 +127,7 @@
   journal:  Remote Sensing
   citation: 12(13), 2136 
   year:     2020
-  url: null 
+  url: https://doi.org/10.3390/rs12132136 
   badges: 
     # - funding=My_R01
     # - project=project1
@@ -152,7 +152,7 @@
   journal:  Plant Methods
   citation: 15, pp.1-13 
   year:     2019
-  url: null 
+  url: https://doi.org/10.1186/s13007-019-0508-7 
   badges: 
     # - funding=My_R01
     # - project=project1
@@ -173,7 +173,7 @@
   journal:  Sensors
   citation: 18(11), 3731 
   year:     2018
-  url: null 
+  url: https://doi.org/10.3390/s18113731 
   badges: 
     # - funding=My_R01
     # - project=project1
@@ -193,7 +193,7 @@
   journal:  Frontiers in plant science
   citation: 9, 398877
   year:     2018
-  url: null 
+  url: https://doi.org/10.3389/fpls.2018.01406 
   badges: 
     # - funding=My_R01
     # - project=project1
@@ -213,7 +213,7 @@
   journal:  LWT-Food Science and Technology
   citation: 82, 369-376
   year:     2017
-  url: null 
+  url: https://doi.org/10.1016/j.lwt.2017.04.070 
   badges: 
     # - funding=My_R01
     # - project=project1
