@@ -2,7 +2,7 @@
 layout: newsfeed
 title: Events and accolades
 subtitle: null
-banner_image: /assets/images/cover_pic_example2_1.png #/assets/images/vintage-newspaper-print-downsize.jpg
+banner_image: /assets/images/cover_pic_example8.png #/assets/images/vintage-newspaper-print-downsize.jpg
 permalink: /newsfeed/
 ---
 

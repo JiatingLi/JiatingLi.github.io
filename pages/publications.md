@@ -2,7 +2,7 @@
 layout: publications
 title: Selected publications
 subtitle: 
-banner_image: /assets/images/pexels-stanislav-kondratiev-2908984-downsize.jpg
+banner_image: /assets/images/cover_pic_example8.png #/assets/images/pexels-stanislav-kondratiev-2908984-downsize.jpg
 permalink: /publications/
 ---
 
