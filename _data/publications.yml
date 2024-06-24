@@ -27,40 +27,192 @@
 #   badges:
 #     - TYPE=ID # e.g. person=John_Doe, project=project1 (no spaces)
       
-- id: bazzano_2021
-  date:  2021-09-21
-  pmid:  34263309
-  pmcid: null
+- id: li_2024
+  date:  2024-05-01
+  pmid:  #34263309
+  pmcid: #null
   authors:  
-    - Bazzano D
-    - Lomonaco S
-    - Wilson TE
-  title:    Mapping yeast mitotic 5' resection at base resolution reveals the sequence and positional dependence of nucleases in vivo
-  journal:  Nucleic Acids Research
-  citation: 10.1093/nar/gkab597
-  year:     2021
+    - Li, J.
+    - Ge, Y.
+    - Puntel, L.A.
+    - Heeren, D.M.
+    - Bai, G.
+    - Balboa, G.R.
+    - Gamon, J.A.
+    - Arkebauer, T.J.
+    - Shi, Y.
+  title:  Integrating UAV hyperspectral data and radiative transfer model simulation to quantitatively estimate maize leaf and canopy nitrogen content
+  journal:  International Journal of Applied Earth Observation and Geoinformation
+  citation: 129, p.103817
+  year:     2024
   url: null
-  abstract: adflkajd aflsdjf adslfkj asdlfkjas fdlkajsdf sdafjsldfkjas dlfkjasd flksdjf asdlfkjsad flkdjsa fsadklfjas adflkajd aflsdjf adslfkj asdlfkjas fdlkajsdf sdafjsldfkjas dlfkjasd flksdjf asdlfkjsad flkdjsa fsadklfjasadflkajd aflsdjf adslfkj asdlfkjas fdlkajsdf sdafjsldfkjas dlfkjasd flksdjf asdlfkjsad flkdjsa fsadklfjasadflkajd aflsdjf adslfkj asdlfkjas fdlkajsdf sdafjsldfkjas dlfkjasd flksdjf asdlfkjsad flkdjsa fsadklfjasadflkajd aflsdjf adslfkj asdlfkjas fdlkajsdf sdafjsldfkjas dlfkjasd flksdjf asdlfkjsad flkdjsa fsadklfjasadflkajd aflsdjf adslfkj asdlfkjas fdlkajsdf sdafjsldfkjas dlfkjasd flksdjf asdlfkjsad flkdjsa fsadklfjas  
+  abstract: 
   badges:
-    - person=Dominic_Bazzano
-    - resource=cell_protocol
+    # - person=Dominic_Bazzano
+    # - resource=cell_protocol
 
-- id: park_2020
-  date:  2020-07-15
-  pmid:  34181717
-  pmcid: PMC8287918
+
+- id: li_2023
+  date:  2023-03-01
+  pmid:  #34181717
+  pmcid: #PMC8287918
   authors:  
-    - Park SH
-    - Bennett-Baker P
-    - Ahmed S
-    - Arlt MF
-    - Ljungman M
-    - Glover TW
-    - Wilson TE
-  title:    Locus-specific transcription silencing at the FHIT gene suppresses replication stress-induced copy number variant formation and associated replication delay
-  journal:  Nucleic Acids Research
-  citation: 49(13):7507-7524  
+    - Li, J.
+    - Wijewardane, N. K.
+    - Ge, Y.
+    - Shi, Y.
+  title:    Improved chlorophyll and water content estimations at leaf level with a hybrid radiative transfer and machine learning model
+  journal:  Computers and Electronics in Agriculture
+  citation: 206, 107669 
+  year:     2023
+  url: null 
+  badges: 
+    # - funding=My_R01
+    # - project=project1
+
+ 
+- id: li_2022
+  date:  2022-10-01
+  pmid:  #34181717
+  pmcid: #PMC8287918
+  authors:  
+    - Li, J.
+    - Schachtman, D. P.
+    - Creech, C. F.
+    - Wang, L.
+    - Ge, Y.
+    - Shi, Y.
+  title:    Evaluation of UAV-derived multimodal remote sensing data for biomass prediction and drought tolerance assessment in bioenergy sorghum
+  journal:  The Crop Journal
+  citation: 10(5), 1363-1375 
+  year:     2022
+  url: null 
+  badges: 
+    # - funding=My_R01
+    # - project=project1
+
+ 
+- id: li_2020
+  date:  2020-08-01
+  pmid:  #34181717
+  pmcid: #PMC8287918
+  authors:  
+    - Li, J.
+    - Oswald, C.
+    - Graef, G. L.
+    - Shi, Y.
+  title:    Improving model robustness for soybean iron deficiency chlorosis rating by unsupervised pre-training on unmanned aircraft system derived images
+  journal:  Computers and electronics in agriculture
+  citation: 175, 105557 
   year:     2020
+  url: null 
+  badges: 
+    # - funding=My_R01
+    # - project=project1
+  
+ 
+- id: arun_2020
+  date:  2020-07-03
+  pmid:  #34181717
+  pmcid: #PMC8287918
+  authors:  
+    - Veeranampalayam Sivakumar, A. N.
+    - Li, J.
+    - Scott, S.
+    - Psota, E.
+    - J. Jhala, A.
+    - Luck, J. D.
+    - Shi, Y.
+  title:    Comparison of object detection and patch-based classification deep learning models on mid-to late-season weed detection in UAV imagery
+  journal:  Remote Sensing
+  citation: 12(13), 2136 
+  year:     2020
+  url: null 
+  badges: 
+    # - funding=My_R01
+    # - project=project1
+  
+ 
+- id: li_2019
+  date:  2019-12-01
+  pmid:  #34181717
+  pmcid: #PMC8287918
+  authors:  
+    - Li, J.
+    - Veeranampalayam Sivakumar, A. N.
+    - Bhatta, M.
+    - Garst, N.D.
+    - Stoll, H.
+    - Stephen Baenziger, P.
+    - Belamkar, V.
+    - Howard, R.
+    - Ge, Y.
+    - Shi, Y.
+  title:    Principal variable selection to explain grain yield variation in winter wheat from features extracted from UAV imagery
+  journal:  Plant Methods
+  citation: 15, pp.1-13 
+  year:     2019
+  url: null 
+  badges: 
+    # - funding=My_R01
+    # - project=project1
+
+
+- id: yuan_2018
+  date:  2018-11-02
+  pmid:  #34181717
+  pmcid: #PMC8287918
+  authors:  
+    - Yuan, W.
+    - Li, J.
+    - Bhatta, M.
+    - Shi, Y.
+    - Baenziger, P. S.
+    - Ge, Y.
+  title:    Wheat height estimation using LiDAR in comparison to ultrasonic sensor and UAS
+  journal:  Sensors
+  citation: 18(11), 3731 
+  year:     2018
+  url: null 
+  badges: 
+    # - funding=My_R01
+    # - project=project1
+
+
+
+- id: li_2018
+  date:  2018-10-02
+  pmid:  #34181717
+  pmcid: #PMC8287918
+  authors:  
+    - Li, J.
+    - Shi, Y.
+    - Veeranampalayam-Sivakumar, A. N.
+    - Schachtman, D. P.
+  title:    Elucidating sorghum biomass, nitrogen and chlorophyll contents with spectral and morphological traits derived from unmanned aircraft system
+  journal:  Frontiers in plant science
+  citation: 9, 398877
+  year:     2018
+  url: null 
+  badges: 
+    # - funding=My_R01
+    # - project=project1
+
+
+
+- id: li_2017
+  date:  2017-09-01
+  pmid:  #34181717
+  pmcid: #PMC8287918
+  authors:  
+    - Li, J.
+    - Zhu, S.
+    - Jiang, S.
+    - Wang, J.
+  title:    Prediction of egg storage time and yolk index based on electronic nose combined with chemometric methods
+  journal:  LWT-Food Science and Technology
+  citation: 82, 369-376
+  year:     2017
   url: null 
   badges: 
     # - funding=My_R01
