@@ -69,7 +69,7 @@
 #-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------
-- id: #Postdoc_Fellow # used internally to identify this person, e.g., in a Newsfeed post "people" field
+- id: Coming_soon # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Coming soon # as display on the web page People item
   role: #Postdoctoral Fellow # will appear next to name
   program: #PSTP # omit if not applicable
