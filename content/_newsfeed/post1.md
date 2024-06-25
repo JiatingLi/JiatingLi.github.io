@@ -17,3 +17,5 @@ banner_image_source: #project=project2 # the item whose banner image will be ado
 <!-- We are happy to report about a research publication.
 
 Congratulations, Lab Member! -->
+
+![Glassware]({{ "assets/images/cover_pic_example.png" | relative_url }})
