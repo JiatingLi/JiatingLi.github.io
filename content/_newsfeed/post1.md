@@ -18,4 +18,4 @@ banner_image_source: #project=project2 # the item whose banner image will be ado
 
 Congratulations, Lab Member! -->
 
-![Glassware]({{ "assets/images/cover_pic_example.png" | relative_url }})
+![Glassware]({{ "assets/images/cover_pic_example2.png" | relative_url }})
