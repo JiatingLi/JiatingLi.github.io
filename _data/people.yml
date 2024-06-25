@@ -71,9 +71,9 @@
 #-------------------------------------------------------------------------------------
 - id: Coming_soon # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Coming soon # as display on the web page People item
-  role: #Postdoctoral Fellow # will appear next to name
+  role: Coming soon #Postdoctoral Fellow # will appear next to name
   program: #PSTP # omit if not applicable
-  image: #assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
+  image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
   orcid: #null
   email: #pfellow22@umich.edu
   github: #null
