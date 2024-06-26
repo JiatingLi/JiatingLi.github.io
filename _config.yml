@@ -26,6 +26,7 @@ max_words_card_long: 50   # truncate other descriptions after this many words in
 #logo: /assets/images/1280px-Michigan_Wolverines_logo-90px_height.png  # Logo in navbar, will be displayed at 30px height
 colors:
   links:  "#2F65A7"    # Color for links: use a readable color that contrasts well with dark text
+  footer: "pink"
 
 
 # !!! only developers should edit below this line !!!

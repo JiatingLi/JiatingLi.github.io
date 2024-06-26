@@ -1,7 +1,7 @@
 ---
 title: About me
 subtitle: 
-# card_image: "assets/images/chemical-reaction-science-chemistry.jpg"
+card_image: "assets/images/vintage-newspaper-print-downsize.jpg"
 ---
 
 
