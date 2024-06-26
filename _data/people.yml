@@ -93,15 +93,15 @@
 #-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------
-- id: b # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: #Coming soon # as display on the web page People item
-  role: #Postdoctoral Fellow # will appear next to name
-  program: #PSTP # omit if not applicable
-  image: #assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
-  orcid: #null
-  email: #pfellow22@umich.edu
-  github: #null
-  twitter: #null
-  description: #Solved really important problems in project 2.
-  status: past
-  current_position: #PhD student, Genetics and Genomics Program, University of Michigan # optional, to indicate where people are now
+# - id:  # used internally to identify this person, e.g., in a Newsfeed post "people" field
+#   name: #Coming soon # as display on the web page People item
+#   role: #Postdoctoral Fellow # will appear next to name
+#   program: #PSTP # omit if not applicable
+#   image: #assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
+#   orcid: #null
+#   email: #pfellow22@umich.edu
+#   github: #null
+#   twitter: #null
+#   description: #Solved really important problems in project 2.
+#   status: past
+#   current_position: #PhD student, Genetics and Genomics Program, University of Michigan # optional, to indicate where people are now
