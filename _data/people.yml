@@ -52,7 +52,7 @@
 #-------------------------------------------------------------------------------------
 # current group members
 #-------------------------------------------------------------------------------------
-- id: #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
+- id: Coming_soon #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: #Research Tech # as display on the web page People item
   role: #Research Technician # will appear next to name
   program: #null # omit if not applicable
