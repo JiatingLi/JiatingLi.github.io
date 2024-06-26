@@ -53,7 +53,7 @@
 # current group members
 #-------------------------------------------------------------------------------------
 - id: Coming_soon #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: #Research Tech # as display on the web page People item
+  name: Coming oon #Research Tech # as display on the web page People item
   role: #Research Technician # will appear next to name
   program: #null # omit if not applicable
   image: #assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
@@ -71,7 +71,7 @@
 #-------------------------------------------------------------------------------------
 - id: Coming_soon # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Coming soon # as display on the web page People item
-  role: Coming soon #Postdoctoral Fellow # will appear next to name
+  role: #Postdoctoral Fellow # will appear next to name
   program: #PSTP # omit if not applicable
   image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
   orcid: #null
