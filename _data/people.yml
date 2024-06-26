@@ -57,7 +57,7 @@
   github: #null
   twitter: #null
   description: #Master of all trades, fills many roles as needed
-  status: #current
+  status: current
   badges:
     #- project=project1
 
@@ -74,5 +74,5 @@
   github: #null
   twitter: #null
   description: #Solved really important problems in project 2.
-  status: #past
+  status: past
   current_position: #PhD student, Genetics and Genomics Program, University of Michigan # optional, to indicate where people are now
