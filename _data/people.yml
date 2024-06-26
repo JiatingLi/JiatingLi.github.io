@@ -75,6 +75,21 @@
   badges:
     #- project=project1
 
+- id: c #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Coming soon #Research Tech # as display on the web page People item
+  role: #Research Technician # will appear next to name
+  program: #null # omit if not applicable
+  image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
+  orcid: #null
+  email: #rtech11@umich.edu
+  github: #null
+  twitter: #null
+  description: #Master of all trades, fills many roles as needed
+  status: current
+  badges:
+    #- project=project1
+
+
 #-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------
