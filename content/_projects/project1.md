@@ -17,7 +17,7 @@ categories:
 
 To improve crop nutrient estimation, we proposed a novel hybrid method that integrates the computational efficiency of AI models with the robustness of physics-based Radiative Transfer Models (i.e., physics-guided AI). This new approach not only achieved higher accuracy than the conventional methods but also demonstrated better robustness across diverse field locations, various crop growth stages, and different growing seasons. With its demonstrated success, this method holds significant promise for application to other common crop species or traits.
 
-![Theme]({{ "assets/images/IMG_1321.jpg" | relative_url }})
+![Theme]({{ "assets/images/IMG_1321.MOV" | relative_url }})
 
 ##### Publications
 
