@@ -20,7 +20,7 @@ To improve crop nutrient estimation, we proposed a novel hybrid method that inte
 
 
 <video width="640" height="480" controls>
-  <source src="JiatingLi/JiatingLi.github.io/assets/images/IMG_1321.mp4" type="video/quicktime">
+  <source src="https://raw.githubusercontent.com/JiatingLi/JiatingLi.github.io/assets/images/IMG_1321.mp4" type="video/quicktime">
   Your browser does not support the video tag.
 </video>
 
