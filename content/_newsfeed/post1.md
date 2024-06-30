@@ -1,5 +1,5 @@
 ---
-date: 2024-06-15
+date: 2024-07-01
 title: #Paper published
 subtitle: #This is a short description of news post number 1
 description: #This is a bit more of a description of news post number 1
@@ -14,9 +14,8 @@ banner_image_source: #project=project2 # the item whose banner image will be ado
 #   - resource=cell_protocol
 ---
 
-<!-- We are happy to report about a research publication.
+Coming soon...
 
-Congratulations, Lab Member! -->
 
-![Glassware]({{ "assets/images/cover_pic_example2.png" | relative_url }})
-![example]({{ "assets/images/chemical-reaction-science-chemistry.jpg" | relative_url }})
+<!-- ![Glassware]({{ "assets/images/cover_pic_example2.png" | relative_url }})
+![example]({{ "assets/images/chemical-reaction-science-chemistry.jpg" | relative_url }}) -->
