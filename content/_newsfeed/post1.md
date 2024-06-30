@@ -1,5 +1,5 @@
 ---
-date: 2024-07-01
+date: 2024-06-29
 title: #Paper published
 subtitle: #This is a short description of news post number 1
 description: #This is a bit more of a description of news post number 1
