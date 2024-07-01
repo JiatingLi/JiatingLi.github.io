@@ -2,7 +2,7 @@
 # site settings
 #-------------------------------------------------------------------------------------
 version: 1 # increment version to force a site rebuild and update Recent News even if content is unchanged
-title: Welcome to the IDEA Lab # in top navigation bar (navbar) and <head>
+title: Welcome to the AIDE Lab # in top navigation bar (navbar) and <head>
 description: #John Doe Laboratory, University of Michigan Medical School # description in <head>
 author: Jiating Li                   # for copyright statement in footer
 url: "https://JiatingLi.github.io" # no slash at the end
