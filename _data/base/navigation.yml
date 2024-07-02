@@ -7,11 +7,11 @@
 - text: Research # extended project descriptions in _projects .md files
   href: /projects/  
 
-- text: Teaching # simple page unto itself, no connections to other data types
-  href: /teach/
-
 - text: Team # simpler data set set in people.yml  #jl
   href: /people/ 
+
+- text: Teaching # simple page unto itself, no connections to other data types
+  href: /teach/
 
 - text: Publications # simpler data set set in publications.yml
   href: /publications/ 
