@@ -9,13 +9,12 @@ permalink: /
 
 
 ### Mission 
-#### To elevate agricultural productivity and sustainability through cutting-edge digital technologies and advanced analytical methodologies.
+**To elevate agricultural productivity and sustainability through cutting-edge digital technologies and advanced analytical methodologies.**
 
 <br>
 We employ a wide range of tools to monitor crop growth and development, including remote sensing technologies (UAVs and satellites), optical sensors, ground-based robotics, and Internet-of-Things (IoT) devices. By harnessing the power of data-driven Artificial Intelligence (machine and deep learning models) and physics-driven process-based models (radiative transfer model, crop growth model), we deliver accurate and robust predictions on crop performance.
 
 <!-- ![Theme]({{ "assets/images/Home_pic.jpg" | relative_url }}) -->
-
 <br>
 
 ### Join us!
