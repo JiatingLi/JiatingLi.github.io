@@ -27,6 +27,32 @@
 #   badges:
 #     - TYPE=ID # e.g. person=John_Doe, project=project1 (no spaces)
       
+
+- id: li_2025
+  date:  2025-02
+  pmid:  #34263309
+  pmcid: #null
+  authors:  
+    - Li, J.
+    - Ge, Y.
+    - Puntel, L.A.
+    - Heeren, D.M.
+    - Bai, G.
+    - Balboa, G.R.
+    - Gamon, J.A.
+    - Arkebauer, T.J.
+    - Shi, Y.
+  title:  Devising optimized maize nitrogen stress indices in complex field conditions from UAV hyperspectral imagery
+  journal:  Precision Agriculture
+  citation: 
+  year:     2025
+  url: https://doi.org/10.1007/s11119-024-10205-1
+  abstract: 
+  badges:
+    # - person=Dominic_Bazzano
+    # - resource=cell_protocol
+
+
 - id: li_2024
   date:  2024-05-01
   pmid:  #34263309
