@@ -6,13 +6,13 @@ card_image: "assets/images/vintage-newspaper-print-downsize.jpg"
 
 
 
-I am an incoming (Fall 2024) assistant professor at the department of Biosystems Engineering, University of Manitoba, Canada. 
+I am an assistant professor at the department of Biosystems Engineering, University of Manitoba, Canada. 
 
 <br>
 My research expertise spans multiple disciplines, including agricultural engineering, data science, and plant science. Throughout my academic journey, I have gained rich research experience in unmanned aerial vehicles (UAV), ground and proximal plant phenotyping tools, multi-modal data (RGB, multispectral, hyperspectral, thermal, and LiDAR) processing, data-driven machine learning and deep learning models, as well as physics-driven radiative transfer models. 
 
 <br>
-Moving forward, my research endeavors will center on digital technologies for agri-food systems, with a keen focus on proximal and remote sensing, robotics and automation systems, internet-of-things (IoTs), and physics-guided AI.
+My lab at the University of Manitoba will focus on digital technologies for agri-food systems, including but not limited to, proximal and remote sensing, robotics and automation systems, internet-of-things (IoTs), and physics-guided AI.
 
 <br>
 
