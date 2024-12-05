@@ -14,7 +14,7 @@ banner_image_source: #project=project2 # the item whose banner image will be ado
 #   - resource=cell_protocol
 ---
 
-Dr. Jiating Li officially start as Assistant Professor at Biosystems Engineering, University of Manitoba https://news.umanitoba.ca/new-biosystems-engineering-prof-to-advance-agricultural-productivity-through-digital-technologies/
+Dr. Jiating Li officially start as Assistant Professor at Biosystems Engineering, University of Manitoba. [Cheers!](https://news.umanitoba.ca/new-biosystems-engineering-prof-to-advance-agricultural-productivity-through-digital-technologies/)
 
 
 <!-- ![Glassware]({{ "assets/images/cover_pic_example2.png" | relative_url }})
