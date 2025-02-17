@@ -61,7 +61,7 @@
   badges:
     #- project=project1
 
-- id: Visiting Student #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
+- id: Dengbin_Fu #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Dengbin Fu #Research Tech # as display on the web page People item
   role: Visiting student (2025 Feb. - 2026 Feb.) #Research Technician # will appear next to name
   program: Visual navigation for rice field management robots #null # omit if not applicable
@@ -70,7 +70,7 @@
   email: dengbinfu@stu.scau.edu.cn
   github: #null
   twitter: #null
-  description: Click here to learn more about me.
+  description: #
   status: current
   badges:
     #- project=project1
