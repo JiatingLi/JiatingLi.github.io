@@ -65,7 +65,7 @@
   name: Dengbin Fu #Research Tech # as display on the web page People item
   role: Visiting student (2025 Feb. - 2026 Feb.) #Research Technician # will appear next to name
   program: Visual navigation for rice field management robots #null # omit if not applicable
-  image: assets/images/Dengbin_Fu_cropped.jpg # can be external link
+  image: assets/images/people/Dengbin_Fu_cropped.jpg
   orcid: #null
   email: dengbinfu@stu.scau.edu.cn
   github: #null
