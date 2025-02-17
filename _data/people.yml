@@ -61,13 +61,13 @@
   badges:
     #- project=project1
 
-- id: b #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Coming soon #Research Tech # as display on the web page People item
-  role: #Research Technician # will appear next to name
-  program: #null # omit if not applicable
-  image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
+- id: Visiting Student #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Dengbin Fu #Research Tech # as display on the web page People item
+  role: Visiting student (2025 Feb. - 2026 Feb.) #Research Technician # will appear next to name
+  program: Visual navigation for rice field management robots #null # omit if not applicable
+  image: assets/images/Dengbin_Fu_cropped.jpg # can be external link
   orcid: #null
-  email: #rtech11@umich.edu
+  email: dengbinfu@stu.scau.edu.cn
   github: #null
   twitter: #null
   description: #Master of all trades, fills many roles as needed
