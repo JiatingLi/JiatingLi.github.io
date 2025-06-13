@@ -61,6 +61,36 @@
   badges:
     #- project=project1
 
+
+- id: Gokarna_Baskota 
+  name: Gokarna Baskota 
+  role: MSc
+  program: Robotics for crop disease rating
+  image: assets/images/people/Dengbin_Fu_cropped.jpg
+  orcid: #null
+  email: baskotag@myumanitoba.ca
+  github: #null
+  twitter: #null
+  description: #
+  status: current
+  badges:
+    #- project=project1
+
+- id: a #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: #Coming soon #Research Tech # as display on the web page People item
+  role: #Research Technician # will appear next to name
+  program: #null # omit if not applicable
+  image: #assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
+  orcid: #null
+  email: #rtech11@umich.edu
+  github: #null
+  twitter: #null
+  description: #Master of all trades, fills many roles as needed
+  status: current
+  badges:
+    #- project=project1
+
+    
 - id: Dengbin_Fu #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Dengbin Fu #Research Tech # as display on the web page People item
   role: Visiting student (2025 Feb. - 2026 Feb.) #Research Technician # will appear next to name
