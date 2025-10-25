@@ -152,7 +152,7 @@
 
 - id: Rupert_Santos #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Rupert Santos #Research Tech # as display on the web page People item
-  role: Summer undergraduate student (Past group member: 2025 May. - 2025 Aug.) # will appear next to name
+  role: Summer undergraduate student (2025 May. - 2025 Aug.) # will appear next to name
   program: Canola yield prediction # omit if not applicable
   image: assets/images/people/Rupert - Headshot.jpg # can be external link
   orcid: #null
@@ -165,7 +165,7 @@
 
 - id: Lian_Duan #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Lian Duan #Research Tech # as display on the web page People item
-  role: Visiting student (Past group member: 2025 May. - 2025 Aug.) # will appear next to name
+  role: Visiting student (2025 May. - 2025 Aug.) # will appear next to name
   program: Modeling climate impact on crop yield #null # omit if not applicable
   image: assets/images/people/Lian - Headshot.JPG # can be external link
   orcid: #null
