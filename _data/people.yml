@@ -149,20 +149,6 @@
 #-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------
-- id: Title placeholder
-  name: Past group members
-  role: 
-  program: 
-  image: 
-  orcid: 
-  email: 
-  github: 
-  twitter: 
-  description:
-  status: 
-  badges:
-    #- project=project1
-    
 - id: Rupert_Santos #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Rupert Santos #Research Tech # as display on the web page People item
   role: Summer undergraduate student (Past group member: 2025 May. - 2025 Aug.) # will appear next to name
