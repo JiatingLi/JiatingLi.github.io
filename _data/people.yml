@@ -122,7 +122,7 @@
   name: Onyeji Somtochukwu Martins #Research Tech # as display on the web page People item
   role: Undergraduate student #Research Technician # will appear next to name
   program: Research volunteer  #null # omit if not applicable
-  image: #assets/images/vippng.com-face-silhouette-png-56170.png
+  image: assets/images/vippng.com-face-silhouette-png-56170.png
   orcid: #null
   email: onyejis@myumanitoba.ca
   github: #null
