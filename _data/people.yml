@@ -108,7 +108,7 @@
   name: Jayden Loeppky #Research Tech # as display on the web page People item
   role: Undergraduate student (2025 Oct. - 2026 Mar.) #Research Technician # will appear next to name
   program: Assessing canola blackleg diseases using drone-based multispectral imaging  #null # omit if not applicable
-  image: assets/images/people/Headshot_Loeppky.jpg
+  image: assets/images/people/Headshot_Loeppky.JPG
   orcid: #null
   email: loeppk12@myumanitoba.ca
   github: #null
@@ -131,23 +131,37 @@
   status: current
   badges:
     #- project=project1
-    
-#-------------------------------------------------------------------------------------
-# past group members
-#-------------------------------------------------------------------------------------
-- id: Rupert_Santos #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Rupert Santos #Research Tech # as display on the web page People item
-  role: Summer undergraduate student (2025 May. - 2025 Aug.) # will appear next to name
-  program: Canola yield prediction # omit if not applicable
-  image: assets/images/people/Rupert - Headshot.jpg # can be external link
+
+- id: a #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: #Coming soon #Research Tech # as display on the web page People item
+  role: #Research Technician # will appear next to name
+  program: #null # omit if not applicable
+  image: #assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
   orcid: #null
-  email: santosr2@myumanitoba.ca
+  email: #rtech11@umich.edu
   github: #null
   twitter: #null
   description: #Master of all trades, fills many roles as needed
   status: current
   badges:
     #- project=project1
+    
+#-------------------------------------------------------------------------------------
+# past group members
+#-------------------------------------------------------------------------------------
+  - id: Rupert_Santos #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
+    name: Rupert Santos #Research Tech # as display on the web page People item
+    role: Summer undergraduate student (2025 May. - 2025 Aug.) # will appear next to name
+    program: Canola yield prediction # omit if not applicable
+    image: assets/images/people/Rupert - Headshot.jpg # can be external link
+    orcid: #null
+    email: santosr2@myumanitoba.ca
+    github: #null
+    twitter: #null
+    description: #Master of all trades, fills many roles as needed
+    status: current
+    badges:
+      #- project=project1
 
 - id: Lian_Duan #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Lian Duan #Research Tech # as display on the web page People item
