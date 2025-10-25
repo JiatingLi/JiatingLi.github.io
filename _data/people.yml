@@ -121,7 +121,7 @@
 - id: Martins #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Onyeji Somtochukwu Martins #Research Tech # as display on the web page People item
   role: Undergraduate student #Research Technician # will appear next to name
-  program: Research volunteers  #null # omit if not applicable
+  program: Research volunteer  #null # omit if not applicable
   image: assets/images/vippng.com-face-silhouette-png-56170.png
   orcid: #null
   email: onyejis@myumanitoba.ca
@@ -160,8 +160,7 @@
   twitter: #null
   description: #Master of all trades, fills many roles as needed
   status: past
-  badges:
-    #- project=project1
+  current_position: Undergraduate student at University of Manitoba
 
 - id: Lian_Duan #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Lian Duan #Research Tech # as display on the web page People item
@@ -174,22 +173,8 @@
   twitter: #null
   description: #Master of all trades, fills many roles as needed
   status: past
-  badges:
-    #- project=project1
+  current_position: PhD student at Western University
     
-# - id: Stephane_Heiget #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
-#   name: Stephane Le Heiget #Research Tech # as display on the web page People item
-#   role: Summer undergraduate student # will appear next to name
-#   program: Sensing soil properties # omit if not applicable
-#   image: assets/images/people/Stephane - Headshot.jpg # can be external link
-#   orcid: #null
-#   email: leheiges@myumanitoba.ca
-#   github: #null
-#   twitter: #null
-#   description: #Master of all trades, fills many roles as needed
-#   status: current
-#   badges:
-#     #- project=project1
 
 # - id:  # used internally to identify this person, e.g., in a Newsfeed post "people" field
 #   name: #Coming soon # as display on the web page People item
