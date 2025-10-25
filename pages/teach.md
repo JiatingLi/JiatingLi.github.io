@@ -6,6 +6,14 @@ permalink: /teach/
 assistant_email: #doe-asst@umich.edu
 ---
 
+### Current teaching
+
+BIOE 3270 Instrumentation and Measurement for Biosystems 
+<br>
+BIOE 0222 Precision Agriculture – Technological Tools for Making Decisions 
+
+
+
 ### Teaching experience 
 
 **Teaching Assistant (@ University of Nebraska-Lincoln)**
@@ -25,13 +33,6 @@ Aerial Image Processing
 <br>
 <br>
 
-### Teaching interest
-
-Proximal and remote sensing in agriculture
-<br>
-Multimodal data analysis for agri-food systems
-<br>
-High-throughput plant phenotyping
 
 
 <!-- **Admin Asst Name**   -->
