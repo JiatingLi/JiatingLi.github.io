@@ -32,6 +32,13 @@ GIS for Agriculture and Natural Resources
 <br>
 Aerial Image Processing
 <br>
+
+**Guest Lecturer (@ University of Manitoba)**
+<br>
+DAGR 0660: Precision Livestock Farming
+<br>
+MECH 3550 Robotics and Computer Numerical Control
+<br>
 <br>
 
 
