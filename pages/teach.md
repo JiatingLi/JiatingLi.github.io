@@ -11,7 +11,8 @@ assistant_email: #doe-asst@umich.edu
 BIOE 3270 Instrumentation and Measurement for Biosystems 
 <br>
 BIOE 0222 Precision Agriculture – Technological Tools for Making Decisions 
-
+<br>
+<br>
 
 
 ### Teaching experience 
