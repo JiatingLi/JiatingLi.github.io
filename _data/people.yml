@@ -122,7 +122,7 @@
   name: Onyeji Somtochukwu Martins #Research Tech # as display on the web page People item
   role: Undergraduate student #Research Technician # will appear next to name
   program: Research volunteer  #null # omit if not applicable
-  image: assets/images/vippng.com-face-silhouette-png-56170.png
+  image: #assets/images/vippng.com-face-silhouette-png-56170.png
   orcid: #null
   email: onyejis@myumanitoba.ca
   github: #null
@@ -149,6 +149,7 @@
 #-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------
+
 - id: Rupert_Santos #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Rupert Santos #Research Tech # as display on the web page People item
   role: Summer undergraduate student (Past group member: 2025 May. - 2025 Aug.) # will appear next to name
@@ -176,15 +177,15 @@
   current_position: PhD student at Western University
     
 
-# - id:  # used internally to identify this person, e.g., in a Newsfeed post "people" field
-#   name: #Coming soon # as display on the web page People item
-#   role: #Postdoctoral Fellow # will appear next to name
-#   program: #PSTP # omit if not applicable
-#   image: #assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
-#   orcid: #null
-#   email: #pfellow22@umich.edu
-#   github: #null
-#   twitter: #null
-#   description: #Solved really important problems in project 2.
-#   status: past
-#   current_position: #PhD student, Genetics and Genomics Program, University of Michigan # optional, to indicate where people are now
+- id:  # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: #Coming soon # as display on the web page People item
+  role: #Postdoctoral Fellow # will appear next to name
+  program: #PSTP # omit if not applicable
+  image: #assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
+  orcid: #null
+  email: #pfellow22@umich.edu
+  github: #null
+  twitter: #null
+  description: #Solved really important problems in project 2.
+  status: past
+  current_position: #PhD student, Genetics and Genomics Program, University of Michigan # optional, to indicate where people are now
