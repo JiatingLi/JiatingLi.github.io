@@ -159,7 +159,7 @@
   github: #null
   twitter: #null
   description: #Master of all trades, fills many roles as needed
-  status: "past"
+  status: past
   badges:
     #- project=project1
 
@@ -173,7 +173,7 @@
   github: #null
   twitter: #null
   description: #Master of all trades, fills many roles as needed
-  status: "past"
+  status: past
   badges:
     #- project=project1
     
