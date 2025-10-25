@@ -92,7 +92,7 @@
 
 - id: Dengbin_Fu #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Dengbin Fu #Research Tech # as display on the web page People item
-  role: Visiting student #(2025 Feb. - 2026 Feb.) #Research Technician # will appear next to name
+  role: Visiting student 
   program: Visual navigation for rice field management robots #null # omit if not applicable
   image: assets/images/people/Dengbin_Fu_cropped.jpg
   orcid: #null
@@ -106,7 +106,7 @@
 
 - id: Jayden_Loeppky #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Jayden Loeppky #Research Tech # as display on the web page People item
-  role: Undergraduate student #(2025 Oct. - 2026 Mar.) #Research Technician # will appear next to name
+  role: Undergraduate student 
   program: Assessing canola blackleg diseases using drone-based multispectral imaging  #null # omit if not applicable
   image: assets/images/people/Headshot_Loeppky.JPG
   orcid: #null
