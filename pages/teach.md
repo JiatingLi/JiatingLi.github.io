@@ -35,7 +35,7 @@ Aerial Image Processing
 
 **Guest Lecturer (@ University of Manitoba)**
 <br>
-DAGR 0660: Precision Livestock Farming
+DAGR 0660 Precision Livestock Farming
 <br>
 MECH 3550 Robotics and Computer Numerical Control
 <br>
