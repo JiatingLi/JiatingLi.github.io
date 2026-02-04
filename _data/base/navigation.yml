@@ -16,6 +16,9 @@
 - text: Publications # simpler data set set in publications.yml
   href: /publications/ 
 
+- text: Gallery
+  href: /gallery/
+
 - text: News # extended event descriptions in _posts .md files
   href: /newsfeed/  
 
