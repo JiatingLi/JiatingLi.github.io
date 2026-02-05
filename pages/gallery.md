@@ -1,5 +1,5 @@
 ---
-layout: base/default
+layout: events
 title: Gallery
 subtitle: null
 banner_image: /assets/images/cover_picture.png
