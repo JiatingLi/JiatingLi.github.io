@@ -35,7 +35,7 @@
 - id: Jiating_Li # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Jiating Li # as display on the web page People item
   role: Assistant Professor, University of Manitoba # Principal Investigator #will appear next to name
-  image: assets/images/people/Jiating Li - Picture.jpg # can be external link
+  image: assets/images/people/jiatingli_picture.jpg # can be external link
   orcid: #0000-0000-0000-0000
   email: Jiating.Li@umanitoba.ca
   github: JiatingLi
@@ -66,7 +66,7 @@
   name: Gokarna Baskota 
   role: MSc
   program: Robotics for crop disease rating
-  image: assets/images/people/Gokarna - Headshot.jpg
+  image: assets/images/people/gokarna_headshot.jpg
   orcid: #null
   email: baskotag@myumanitoba.ca
   github: #null
@@ -80,7 +80,7 @@
   name: Stephane Le Heiget 
   role: MSc 
   program: Remote sensing and data fusion for crop monitoring
-  image: assets/images/people/Stephane - Headshot.jpg # can be external link
+  image: assets/images/people/stephane_headshot.jpg # can be external link
   orcid: #null
   email: leheiges@myumanitoba.ca
   github: #null
@@ -94,7 +94,7 @@
   name: Dengbin Fu #Research Tech # as display on the web page People item
   role: Visiting student 
   program: Visual navigation for rice field management robots #null # omit if not applicable
-  image: assets/images/people/Dengbin_Fu_cropped.jpg
+  image: assets/images/people/dengbin_headshot.jpg
   orcid: #null
   email: dengbinfu@stu.scau.edu.cn
   github: #null
@@ -108,7 +108,7 @@
   name: Jayden Loeppky #Research Tech # as display on the web page People item
   role: Undergraduate student 
   program: Assessing canola blackleg diseases using drone-based multispectral imaging  #null # omit if not applicable
-  image: assets/images/people/Headshot_Loeppky.JPG
+  image: assets/images/people/loeppky_headshot.JPG
   orcid: #null
   email: loeppk12@myumanitoba.ca
   github: #null
@@ -122,7 +122,7 @@
   name: Onyeji Somtochukwu Martins #Research Tech # as display on the web page People item
   role: Undergraduate student #Research Technician # will appear next to name
   program: Research volunteer  #null # omit if not applicable
-  image: assets/images/people/Martins_2025.jpeg
+  image: assets/images/people/martins_headshot.jpeg
   orcid: #null
   email: onyejis@myumanitoba.ca
   github: #null
@@ -154,7 +154,7 @@
   name: Rupert Santos #Research Tech # as display on the web page People item
   role: Summer undergraduate student (2025 May. - 2025 Aug.) # will appear next to name
   program: Canola yield prediction # omit if not applicable
-  image: assets/images/people/Rupert - Headshot.jpg # can be external link
+  image: assets/images/people/rupert_headshot.jpg # can be external link
   orcid: #null
   email: santosr2@myumanitoba.ca
   github: #null
@@ -167,7 +167,7 @@
   name: Lian Duan #Research Tech # as display on the web page People item
   role: Visiting student (2025 May. - 2025 Aug.) # will appear next to name
   program: Modeling climate impact on crop yield #null # omit if not applicable
-  image: assets/images/people/Lian - Headshot.JPG # can be external link
+  image: assets/images/people/lian_headshot.JPG # can be external link
   orcid: #null
   email: lduan32@uwo.ca
   github: #null
