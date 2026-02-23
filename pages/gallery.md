@@ -6,12 +6,21 @@ banner_image: /assets/images/cover_picture.png
 permalink: /gallery/
 
 gallery_images:
+  - file: open_house_feb26.jpg
+    caption: "AIDE Lab showcashing on biosystems Engineering open house event"
+    href: null
   - file: gokarna_mac2025.jpg # image file name stored in assets/images/gallery/
     caption: "Gokarna presenting at MAC 2025"
     href: /newsfeed/dec10-2025/ # link if this image associated with any events (eg. /newsfeed/dec10-2025/)
-  - file: drone_setup_point_jun2125.jpg # image file name stored in assets/images/gallery/
+  - file: stephane_bioe_acm2025.jpg
+    caption: "Stephane presenting at Biosystems Engineering ACM 2025"
+    href: null
+  - file: drone_setup_point_jun2125.jpg
     caption: "Setting up drone for data collection"
-    href: null # link if this image associated with any events (eg. /newsfeed/dec10-2025/)
+    href: null
+  - file: mobile_robot_datacollection_jul1025.jpg
+    caption: "Mobile robot collecting data in the field"
+    href: null
 ---
 
 <!-- Content here would show up in body -->
