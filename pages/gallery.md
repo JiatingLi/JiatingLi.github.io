@@ -34,7 +34,7 @@ gallery_images:
            class="card-img gallery-img" 
            alt="{{ item.caption }}"
            data-full="{{ site.baseurl }}/assets/images/gallery/{{ item.file }}"
-           style="height: 250px; object-fit: contain; width: 100%; background-color: #f8f9fa;">
+           style="height: 250px; object-fit: contain; width: 100%; background-color: #f8f9fa; cursor: zoom-in;">
       <div class="card-body-bottom p-3">
         <p class="card-text text-center text-muted m-0 small">
         {{ item.caption }}
