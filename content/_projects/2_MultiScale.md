@@ -23,5 +23,18 @@ Results coming soon: we will test this system this summer (2026) to distinguish 
     caption="" 
 %}
 
-<h4>In the air</h4>
 
+<h4>In the air</h4>
+Unsupervised pre-training enhances deep learning model for crop stress detection <br>
+Our proposed unsupervised pre-training strategy mitigated the requirement of intensive training data for deep learning models. Leveraging unlabeled UAV-collected RGB images, this approach significantly enhanced performance in rating the severity of soybean iron deficiency chlorosis, surpassing models without pre-training.
+
+##### Relevant Publications
+
+**Li, J.**, Oswald, C., Graef, G. L., & Shi, Y. (2020). Improving model robustness for soybean iron deficiency chlorosis rating by unsupervised pre-training on unmanned aircraft system derived images. Computers and electronics in agriculture, 175, 105557. [paper link](https://doi.org/10.1016/j.compag.2020.105557)
+
+{% include figure.html  
+    image="assets/images/research_topic_2.jpg"
+    width=14
+    title=""  
+    caption="" 
+%}
