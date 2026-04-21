@@ -3,7 +3,7 @@ title: Multi-scale sensing system for crop stress detection
 subtitle: 
 description: We develop multi-scale sensing systems, from individual plants to field-level, to enable scalable detection of stress and disease.
 order: 2
-card_image: "assets/images/Ground systems.jpg"
+card_image: "assets/images/Ground system.png"
 card_title: null # used if card_image is null; defaults to title
 categories: 
     - Robots
@@ -15,7 +15,7 @@ Our lab is developing a ground-based imaging platform built around a robotic arm
 
 
 {% include figure.html  
-    image="assets/images/Ground systems.jpg"
+    image="assets/images/Ground system.png"
     width=14
     title=""  
     caption="" 
