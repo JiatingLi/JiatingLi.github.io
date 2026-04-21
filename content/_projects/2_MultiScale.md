@@ -17,22 +17,14 @@ Our lab is developing a ground-based imaging platform built around a robotic arm
 Results coming soon: we will test this system this summer (2026) to distinguish winter wheat leaf rust and stem rust diseases. 
 
 
-<style>
-.no-border-figure figure,
-.no-border-figure img {
-  border: none !important;
-  box-shadow: none !important;
-  outline: none !important;
-}
-</style>
-<div class="no-border-figure">
+
 {% include figure.html
     image="assets/images/Ground system.png"
     width=5
     title=""
     caption=""
 %}
-</div>
+
 
 
 
