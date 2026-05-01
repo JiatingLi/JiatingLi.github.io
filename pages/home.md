@@ -19,7 +19,8 @@ We employ a wide range of tools to monitor crop growth and development, includin
 
 ## Join us!
 I am actively looking for graduate students to join our lab at the [Department of Biosystems Engineering, University of Manitoba](https://umanitoba.ca/engineering/biosystems). Students with strong self-motivation and passion for agricultural engineering are welcome to contact me. 
-
+<br>
+Please see the position details [here](/assets/images/docs/PhD_openings_UManitoba_Jan2027Start.pdf).
 
 
 
