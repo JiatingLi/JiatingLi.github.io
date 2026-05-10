@@ -90,20 +90,6 @@
   badges:
     #- project=project1
 
-- id: Dengbin_Fu #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Dengbin Fu #Research Tech # as display on the web page People item
-  role: Visiting student 
-  program: Visual navigation for rice field management robots #null # omit if not applicable
-  image: assets/images/people/dengbin_headshot.jpg
-  orcid: #null
-  email: dengbinfu@stu.scau.edu.cn
-  github: #null
-  twitter: #null
-  description: #
-  status: current
-  badges:
-    #- project=project1
-
 - id: Jayden_Loeppky #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Jayden Loeppky #Research Tech # as display on the web page People item
   role: Undergraduate student 
@@ -117,6 +103,19 @@
   status: current
   badges:
     #- project=project1
+
+- id: Rupert_Santos #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Rupert Santos #Research Tech # as display on the web page People item
+  role: Summer part-time student (2025 & 2026) # will appear next to name
+  program: Canola yield prediction # omit if not applicable
+  image: assets/images/people/rupert_headshot.jpg # can be external link
+  orcid: #null
+  email: santosr2@myumanitoba.ca
+  github: #null
+  twitter: #null
+  description: #Master of all trades, fills many roles as needed
+  status: past
+  current_position: Undergraduate student at University of Manitoba
 
 - id: Martins #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Onyeji Somtochukwu Martins #Research Tech # as display on the web page People item
@@ -150,19 +149,6 @@
 # past group members
 #-------------------------------------------------------------------------------------
 
-- id: Rupert_Santos #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Rupert Santos #Research Tech # as display on the web page People item
-  role: Summer undergraduate student (2025 May. - 2025 Aug.) # will appear next to name
-  program: Canola yield prediction # omit if not applicable
-  image: assets/images/people/rupert_headshot.jpg # can be external link
-  orcid: #null
-  email: santosr2@myumanitoba.ca
-  github: #null
-  twitter: #null
-  description: #Master of all trades, fills many roles as needed
-  status: past
-  current_position: Undergraduate student at University of Manitoba
-
 - id: Lian_Duan #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Lian Duan #Research Tech # as display on the web page People item
   role: Visiting student (2025 May. - 2025 Aug.) # will appear next to name
@@ -175,6 +161,21 @@
   description: #Master of all trades, fills many roles as needed
   status: past
   current_position: PhD student at Western University
+
+- id: Dengbin_Fu #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Dengbin Fu #Research Tech # as display on the web page People item
+  role: Visiting student (2025 Jan. - 2026 Jan.)
+  program: Visual navigation for rice field management robots #null # omit if not applicable
+  image: assets/images/people/dengbin_headshot.jpg
+  orcid: #null
+  email: dengbinfu@stu.scau.edu.cn
+  github: #null
+  twitter: #null
+  description: #
+  status: current
+  badges:
+    #- project=project1
+
     
 
 - id:  # used internally to identify this person, e.g., in a Newsfeed post "people" field
