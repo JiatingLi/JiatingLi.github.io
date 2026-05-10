@@ -115,7 +115,7 @@
   twitter: #null
   description: #Master of all trades, fills many roles as needed
   status: current
-  current_position: Undergraduate student at University of Manitoba
+  #current_position: Undergraduate student at University of Manitoba
 
 - id: Martins #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Onyeji Somtochukwu Martins #Research Tech # as display on the web page People item
