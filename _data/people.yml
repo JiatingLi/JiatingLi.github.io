@@ -114,7 +114,7 @@
   github: #null
   twitter: #null
   description: #Master of all trades, fills many roles as needed
-  status: past
+  status: current
   current_position: Undergraduate student at University of Manitoba
 
 - id: Martins #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
@@ -172,7 +172,7 @@
   github: #null
   twitter: #null
   description: #
-  status: current
+  status: past
   badges:
     #- project=project1
 
