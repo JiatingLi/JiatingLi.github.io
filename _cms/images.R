@@ -126,7 +126,7 @@ output$adjustedImage <- renderImage({ # preview the cropped and scaled image pri
     list(
         src = tmpFile,
         width = '100%',
-        style = "margin-top: 10px; border: 0px solid grey;"
+        style = "margin-top: 10px;"  #; border: 1px solid grey
     )
 }, deleteFile = FALSE)
 
