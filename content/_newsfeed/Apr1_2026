@@ -1,0 +1,19 @@
+---
+date: 2026-04-01
+title: New grants
+subtitle: #This is a short description of news post number 1
+description: NSERC Discovery Grants awarded!
+event_type: Funding #publication # primary type of the event, used to create the small, colored post callout
+banner_image_source: #project=project2 # the item whose banner image will be adopted by this event
+# badges: # e.g. person=John_Doe, project=project1 (no spaces)
+#   - project=project1
+#   - project=project2
+#   - publication=park_2020
+#   - funding=My_R01
+#   - person=Research_Tech
+#   - resource=cell_protocol
+---
+
+Our research program titled "Bridging domain knowledge and machine learning for reliable yield prediction of Prairie crops" has been awarded through the NSERC Discovery Grants Program (2026 Apr - 2031 Mar)! 
+<br>
+We acknowledge the support of the Natural Sciences and Engineering Research Council of Canada (NSERC).
