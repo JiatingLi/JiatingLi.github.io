@@ -1,0 +1,29 @@
+---
+date: 2026-06-24
+title: New grants
+subtitle: #This is a short description of news post number 1
+description: Funding support received from Manitoba Pulse & Soybean Growers!
+event_type: funding #publication # primary type of the event, used to create the small, colored post callout
+banner_image_source: #project=project2 # the item whose banner image will be adopted by this event
+# badges: # e.g. person=John_Doe, project=project1 (no spaces)
+#   - project=project1
+#   - project=project2
+#   - publication=park_2020
+#   - funding=My_R01
+#   - person=Research_Tech
+#   - resource=cell_protocol
+---
+
+Our research project titled "Investigating soil water and nitrogen interactive effects on biological nitrogen fixation using remote sensing" has received funding support from Manitoba Pulse & Soybean Growers (MPSG) (2026 Apr - 2028 Dec)! 
+<br>
+This project is in collaboration with Dr. Dilshan Benaragama from the Department of Plant Science, University of Manitoba and Dr. Kevin Baron from Solum Valley Biosciences.
+<br>
+We acknowledge MPSG's support and look forward to generating meaningful findings and practical contributions.
+<br>
+
+                                                  {% include figure.html  
+                                                      image="assets/images/MPSG_icon.png"
+                                                      width=2
+                                                      title=""  
+                                                      caption="" 
+                                                  %}
