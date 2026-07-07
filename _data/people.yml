@@ -117,11 +117,11 @@
   status: current
   #current_position: Undergraduate student at University of Manitoba
 
-- id: Keerthna #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
+- id: Keerthna_Hariprakash #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Keerthna Hariprakash #Research Tech # as display on the web page People item
   role: Undergraduate student #Research Technician # will appear next to name
   program: Remote sensing for soybean and pulse crops
-  image: assets/images/people/Keerthna.jpg
+  image: assets/images/people/keerthna_headshot.jpg
   orcid: #null
   email: hariprak@myumanitoba.ca
   github: #null
@@ -131,11 +131,11 @@
   badges:
     #- project=project1
 
-- id: Maddy #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
+- id: Maddy_Rebeck #Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Maddy Rebeck #Coming soon #Research Tech # as display on the web page People item
   role: Undergraduate student  #Research Technician # will appear next to name
   program: Corn nitrogen fertilization management #null # omit if not applicable
-  image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
+  image: assets/images/people/maddy_headshot.jpg # can be external link
   orcid: #null
   email: rebeckm@myumanitoba.ca
   github: #null
