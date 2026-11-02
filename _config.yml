@@ -152,6 +152,7 @@ plugins: # If you build your site on gh-pages, only use these plugins: https://p
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-redirect-from
 exclude:
   - README.md
   - Gemfile
